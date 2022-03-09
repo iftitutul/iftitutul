@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Clouds: AWS, Azure, GCP, OCI, k8s, DevOps, SRE, Terraform, Data Analytics, Serverless, k8s networking.**
+- 🌱 I’m currently working on **Clouds: AWS, Azure, GCP, OCI, k8s, DevOps, SRE, Terraform, Jenkins, Docker, Data Analytics, Serverless.**
 
 - 👯 I’m looking to collaborate on **Clouds, Kubernetes, DevOps, GitOps, SRE**
 
