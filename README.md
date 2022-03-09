@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iftikhar Hossain.</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iftitutul&label=Profile%20views&color=0e75b6&style=flat" alt="iftitutul" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftitutul" alt="iftitutul" /></a> </p>
-
-
-
 - 🌱 I’m currently working on **Clouds: AWS, Azure, GCP, OCI, k8s, DevOps, SRE, Terraform, Jenkins, Docker, Data Analytics, Serverless.**
 
 <h3> Skills </h3>
@@ -24,6 +18,9 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ...
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iftitutul&label=Profile%20views&color=0e75b6&style=flat" alt="iftitutul" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftitutul" alt="iftitutul" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iftitutul&show_icons=true&locale=en&layout=compact" alt="iftitutul" /></p>
 
