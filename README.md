@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iftikhar Hossain.</h1>
 
 
-- 🌱 I’m currently working on **Clouds: AWS, Azure, GCP, OCI, k8s, DevOps, SRE, Terraform, Jenkins, Docker, Data Analytics, Serverless.**
+/*- 🌱 I’m currently working on **Clouds: AWS, Azure, GCP, OCI, k8s, DevOps, SRE, Terraform, Jenkins, Docker, Data Analytics, Serverless.** */
 
 ## Skills ##
 
