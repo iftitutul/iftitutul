@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently working on **Clouds: AWS, Azure, GCP, OCI, k8s, DevOps, SRE, Terraform, Jenkins, Docker, Data Analytics, Serverless.**
 
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=AWS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=Kubernetes&logoColor=white&color=4AB197)
 ...
 
 <details>
