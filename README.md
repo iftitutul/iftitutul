@@ -22,7 +22,6 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Github Stats ##
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iftitutul&label=Profile%20views&color=0e75b6&style=flat" alt="iftitutul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftitutul" alt="iftitutul" /></a> </p>
 
