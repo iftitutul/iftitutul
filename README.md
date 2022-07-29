@@ -27,6 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iftitutul&show_icons=true&locale=en&layout=compact" alt="iftitutul" /></p>
 
-<!-- #### <img align="left" alt="Arslan's Spotify" width="75px" src="https://cdn.worldvectorlogo.com/logos/spotify-logo-with-text-1.svg"/> Now Playing 🎧  -->
 
 
