@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iftikhar Hossain.</h1>
 
+![](https://visitor-badge.glitch.me/badge?page_id=iftitutul.iftitutul)
+
 ## Skills ##
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -25,7 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iftitutul&show_icons=true&locale=en&layout=compact" alt="iftitutul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iftitutul&show_icons=true&locale=en" alt="iftitutul" /></p>
+<!-- #### <img align="left" alt="Arslan's Spotify" width="75px" src="https://cdn.worldvectorlogo.com/logos/spotify-logo-with-text-1.svg"/> Now Playing 🎧  -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftitutul&" alt="iftitutul" /></p>
 
